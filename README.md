@@ -243,7 +243,7 @@ RepoPulse is part of the zero-dependency **Developer Diagnostics Suite** by [@um
 
 ## 📖 Project Case Study
 
-RepoPulse is an open-source project by [Umut Güngör](https://umutgungorr.com/). Read the [RepoPulse case study](https://umutgungorr.com/projects/repopulse) for its forensic Git mining methodology, bus-factor scoring, and architectural insights.
+RepoPulse is an open-source project by [Umut Güngör](https://umutgungorr.com/). Read the [RepoPulse case study](https://umutgungorr.com/projects/repopulse) for its forensic Git mining methodology, bus-factor scoring, and architectural insights, along with [Designing CLI Tools That Earn Trust](https://umutgungorr.com/blog/cli-tools-that-earn-trust?lang=en).
 
 ---
 
